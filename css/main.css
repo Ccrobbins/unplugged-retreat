@@ -344,7 +344,12 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
-.features figure {
+.features i {
+	font-size: 3.75em;
+        margin-bottom: 40px;
+}
+
+/*.features figure {
     width: 52%;
     display: flex;
     justify-content: center;
@@ -352,7 +357,7 @@ input[type=button] {
     flex-flow: row wrap;
     padding-left: 40px;
     padding-bottom: 40px;
-}
+}*/
 
 .features p {
   text-align: center;
