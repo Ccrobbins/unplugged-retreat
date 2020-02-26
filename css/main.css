@@ -653,6 +653,8 @@ aside .content-wrapper .form {
 
   .reviews h2 {
     width: 85%;
+    font-size: 2.25em;
+    margin-bottom: 10px;
   }
 
 .reviews article figure,
